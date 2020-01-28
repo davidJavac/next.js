@@ -1,0 +1,30 @@
+p{
+
+    float : left;
+}
+
+.descripcion{
+
+    display : inline-block;
+}
+
+#container{
+    width : 95%;
+    height : 1500px;
+    margin : 20px;
+    border : solid 1px;
+    display: inline-block;
+    overflow: auto;
+}
+
+.content{
+
+    margin: 10px;
+    float : left;
+}
+
+#origin{
+
+    border : solid 1px green;
+    width : 33%;
+}
